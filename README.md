@@ -138,6 +138,11 @@ Where:
 - Check that distance is not too small (avoid division by zero)
 - Verify mass values are reasonable
 
+## Output sample
+<img width="711" height="1165" alt="image" src="https://github.com/user-attachments/assets/6b7f1362-3777-418f-b688-e02470f8453f" />
+<img width="711" height="354" alt="image" src="https://github.com/user-attachments/assets/3eae3158-9389-4f35-a36f-eafda14aaaa8" />
+
+
 ## License
 
 This project is open source and available under the MIT License.
